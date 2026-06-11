@@ -5,7 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 
-const HERO_IMG = "https://cdn.ezst.app/projects/39eaa8b9-3b93-4a14-a954-b4bf4ba83d6d/files/32f19b47-c433-4526-8af9-f4e97f0d11e3.jpg";
+const HERO_IMG = "https://cdn.ezst.app/projects/39eaa8b9-3b93-4a14-a954-b4bf4ba83d6d/files/9bf90435-eba9-4c2c-8399-8a06d53e74b6.jpg";
 
 const services = [
   { icon: "Sparkles", title: "Cleaning", desc: "Deep cleaning, regular maintenance, post-renovation tidying", price: "from $45" },
